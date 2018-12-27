@@ -1,0 +1,19 @@
+{
+  "name": "dunno",
+  "version": "0.0.1",
+  "description": "not really sure what this is gonna be",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "phaser-thing-whatever"
+  },
+  "author": "iCodeCoolStuff",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
