@@ -1,11 +1,11 @@
 {
-  "name": "dunno",
+  "name": "phaser-thing-whatever",
   "version": "0.0.1",
-  "description": "not really sure what this is gonna be",
+  "description": "basically some phaser thing i think",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node js/server.js"
   },
   "repository": {
     "type": "git",
